@@ -109,6 +109,4 @@ st.header("Contact")
 st.write("Add a preferred contact method or a short note for collaborators.")
 st.info("Tip: Keep personal details minimal if this is fully public.")
 
-# Researcher Profile (Streamlit)
 
-A public Streamlit app showcasing my research profile, projects, and selected outputs.
